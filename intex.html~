@@ -1,1 +1,12 @@
-Hello World
+<html>
+<head>
+<style>
+ font-size:30 ;
+color:yellow;
+</style>
+<title>rashid</title>
+</head>
+<body>
+<h1>Hello World</h1>
+</body>
+</html>
